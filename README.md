@@ -4,7 +4,7 @@
 
 Some rules for AR app
 
-<img src="https://github.com/3pper/AR-Ruler/blob/main/IMG_5013.PNG" width=«500">
+<img src="https://github.com/3pper/AR-Ruler/blob/main/IMG_5013.PNG" width="500">
 
 ## How to install 
 
