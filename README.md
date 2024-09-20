@@ -4,7 +4,7 @@
 
 Some rules for AR app
 
-![banner](https://github.com/3pper/AR-Ruler/blob/main/AR%20Ruler/Assets.xcassets/IMG_5013.imageset/IMG_5013.PNG)
+<img src="https://github.com/3pper/AR-Ruler/blob/main/IMG_5013.PNG" width=«500">
 
 ## How to install 
 
