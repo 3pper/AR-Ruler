@@ -1,25 +1,16 @@
 # AR Ruler
 
-![banner](https://github.com/3pper/Music_app/blob/main/Assets/Music_App.png?raw=true)
-
-![Static Badge](https://img.shields.io/badge/Music%20App-8A2BE2?style=plastic&logo=github&labelColor=hex)
-
 ## About this app
 
-At first, i saw tik-tok video like this:
+Some rules for AR app
 
-![banner](https://github.com/3pper/Music_app/blob/main/Assets/ezgif.com-video-to-gif.gif?raw=true)
-
-After that i'm trying to do app that have the same option's. This is how it look's like:
-
-![banner](https://github.com/3pper/Music_app/blob/main/Assets/IMG_1918.PNG?raw=true)
+![banner]https://github.com/3pper/AR-Ruler/blob/main/AR%20Ruler/Assets.xcassets/IMG_5013.imageset/IMG_5013.PNG)
 
 ## How to install 
 
 ```
-git clone https://github.com/3pper/Music_app.git
+git clone https://github.com/3pper/AR-Ruler.git
 ```
 ## Info 
 
-Enjoy this app =)
-Last 2 button's play a part of duft punk music
+It's can help you for made some app this AR
