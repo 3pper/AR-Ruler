@@ -13,4 +13,4 @@ git clone https://github.com/3pper/AR-Ruler.git
 ```
 ## Info 
 
-It's can help you for made some app this AR
+It's can help you for made some app with AR
